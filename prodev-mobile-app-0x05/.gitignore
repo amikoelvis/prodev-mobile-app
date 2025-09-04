@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+  
+# Expo / React Native
+.expo/
+.expo-shared/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# build outputs
+dist/
+build/
